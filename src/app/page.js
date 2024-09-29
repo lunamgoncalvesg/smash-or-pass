@@ -1,8 +1,8 @@
 "use client"
 import './globals.css';
-import SmashDiv from './SmashDiv';
-import PassDiv from './PassDiv';
-import Card from './Card';
+import SmashDiv from '/components/SmashDiv';
+import PassDiv from '/components/PassDiv';
+import Card from '/components/Card';
 import { useState } from 'react';
 import { useEffect } from 'react';
 
